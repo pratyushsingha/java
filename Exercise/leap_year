@@ -1,8 +1,5 @@
-//Write a program to find out the type of website from the URL:
-//
-//.com – commercial website
-//.org – organization website
-//.in – Indian website
+// Write a Java program to find whether a year entered by the user is a leap year or not.
+
 
 import java.util.Scanner;
 public class leap_year {
