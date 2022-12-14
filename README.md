@@ -1,7 +1,8 @@
 [![MasterHead](https://imgs.search.brave.com/kJxMwvYZXS5CjNqk8AQhMg96TdpGTzz2-Lr-I1-_AN4/rs:fit:600:300:1/g:ce/aHR0cHM6Ly93d3cu/dGVrbm9sb2dpc2su/ZGsvXy9jbXMubmV0/L2hlbHBlcnMvZ2V0/bWVkaWEuYXNoeD9z/cmM9Y3MmY29tcGFu/eV9pZD10ZWsmbWVk/aWFfaWQ9MTcyNDg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pratyush Singha</h1>
 <h3 align="center">Now I am Learning Java!!!</h3>
-<iframe src="https://giphy.com/embed/umYMU8G2ixG5mJBDo5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschGlobal-coding-home-office-remote-working-umYMU8G2ixG5mJBDo5">via GIPHY</a></p>
+<img src="https://imgs.search.brave.com/cTWvsKv2Fc7C5UDE5anDrCErBLMupkD9BAQQL3XPTBM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif" 
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushsingha&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsingha" /> </p>
