@@ -1,7 +1,7 @@
 [![MasterHead](https://imgs.search.brave.com/kJxMwvYZXS5CjNqk8AQhMg96TdpGTzz2-Lr-I1-_AN4/rs:fit:600:300:1/g:ce/aHR0cHM6Ly93d3cu/dGVrbm9sb2dpc2su/ZGsvXy9jbXMubmV0/L2hlbHBlcnMvZ2V0/bWVkaWEuYXNoeD9z/cmM9Y3MmY29tcGFu/eV9pZD10ZWsmbWVk/aWFfaWQ9MTcyNDg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pratyush Singha</h1>
 <h3 align="center">Now I am Learning Java!!!</h3>
-img align="right" alt="Coding" width="400" src="https://search.brave.com/images?q=animated+codding+gif&source=web&img=1"
+(img align="right" alt="Coding" width="400" src="https://search.brave.com/images?q=animated+codding+gif&source=web&img=1")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushsingha&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsingha" /> </p>
 
